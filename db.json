@@ -1,4 +1,4 @@
-[{
+{
   "users":
     [{
         "firstName": "Aaron",
@@ -6,7 +6,7 @@
         "email": "Aaron.Nedziwe@za.sabmiller.com",
         "nTLogin": "BEERS/AARONN01BIS",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Adriaan",
@@ -130,5 +130,5 @@
     }
 ]
 }
-]
+
  
