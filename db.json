@@ -14,7 +14,7 @@
         "email": "Adriaan.badenhorst@za.sabmiller.com",
         "nTLogin": "BEERSA/Adriaab1cen",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Agrippa",
@@ -22,7 +22,7 @@
         "email": "agrippa.mhlongo@za.sabmiller.com",
         "nTLogin": "BEERSA/Amhlongo",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Ajay",
@@ -30,7 +30,7 @@
         "email": "Ajay.bachulal@za.sabmiller.com",
         "nTLogin": "BEERSA/ajayb01pro",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Alisha",
@@ -38,7 +38,7 @@
         "email": "Alisha.OConnor@za.sabmiller.com",
         "nTLogin": "BEERSA/aoconnor",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Amit",
@@ -46,7 +46,7 @@
         "email": "Amit.Ooka@za.sabmiller.com",
         "nTLogin": "BEERSA/AOoka",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Andile",
@@ -54,7 +54,7 @@
         "email": "andile.mthiya@za.sabmiller.com",
         "nTLogin": "BEERSA/andile01px1",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Andiswa",
@@ -62,7 +62,7 @@
         "email": "andiswa.cele@za.sabmiller.com",
         "nTLogin": "BEERSA/andiswac01pro",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Andre",
@@ -70,7 +70,7 @@
         "email": "andre.bretenbach@za.sabmiller.com",
         "nTLogin": "BEERSA/andreb01val",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Andrew",
@@ -78,7 +78,7 @@
         "email": "andrew.boshoff@za.sabmiller.com",
         "nTLogin": "BEERSA/andrewb01ecp",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Anell",
@@ -86,7 +86,7 @@
         "email": "anell.earle@za.sabmiller.com",
         "nTLogin": "BEERSA/anelle01dvl",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Anesh",
@@ -94,7 +94,7 @@
         "email": "anesh.chanerika@za.sabmiller.com",
         "nTLogin": "BEERSA/anesha01pro",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Angela",
@@ -102,7 +102,7 @@
         "email": "angela.schoeman@za.sabmiller.com",
         "nTLogin": "BEERSA/angelas01val",
         "role": "Normal",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Angus",
@@ -110,7 +110,7 @@
         "email": "angus.vanwyk@za.sabmiller.com",
         "nTLogin": "BEERSA/angusv01alb",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "anil",
@@ -118,7 +118,7 @@
         "email": "anil.mahadeo@za.sabmiller.com",
         "nTLogin": "BEERSA/anilm01px1",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     },
     {
         "firstName": "Anton",
@@ -126,7 +126,7 @@
         "email": "anton.vanderwatt@za.sabmiller.com",
         "nTLogin": "BEERSA/avanderwatt",
         "role": "Administrator",
-        "active": "true"
+        "active": true
     }
 ]
 }
